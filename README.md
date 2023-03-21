@@ -6,13 +6,13 @@ This repository contains resources, code examples and solutions for the Micropro
 
 The course is divided into the following modules:
 
-- Week 1 - Basics of DebugX
-- Week 2 - Data storage in ALP
-- Week 3 - Control Flow in ALP
-- Week 4 - String Operations in ALP
-- Week 5 - Dealing with Interrupts
-- Week 6 - File Operations in DebugX
-- Week 7 - Advanced Operations using Interrupts
++ Week 1 - Basics of DebugX
++ Week 2 - Data storage in ALP
++ Week 3 - Control Flow in ALP
++ Week 4 - String Operations in ALP
++ Week 5 - Dealing with Interrupts
++ Week 6 - File Operations in DebugX
++ Week 7 - Advanced Operations using Interrupts
 
 ## Lab Sheets
 
