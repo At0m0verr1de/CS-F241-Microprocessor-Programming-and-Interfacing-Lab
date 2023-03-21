@@ -32,7 +32,7 @@ The course is divided into the following modules:
 - [Slides Week4](https://drive.google.com/file/d/13gDxGaX72DFDIjYQhgMgTGy6T6dp03jV/view?usp=sharing)
 - [Slides Week5](https://drive.google.com/file/d/1GJyQm0K5Y1SSVAYXZWg9H4jj2OYOK0Hk/view?usp=sharing)
 - [Slides Week6](https://drive.google.com/file/d/1YMhm60D9gEmdEqlxGIvSdwueHTU7FkDK/view?usp=sharing)
-- [Slides Week7]()
+- [Slides Week7](https://drive.google.com/file/d/12LeDJUDGE-UXvu60OaX5AAfbu9dm6Vw7/view?usp=sharing)
 
 ## Contributions
 Contributions to this repository are welcome. If you find any issues or have any suggestions for improvement, please feel free to open an issue or submit a pull request.
