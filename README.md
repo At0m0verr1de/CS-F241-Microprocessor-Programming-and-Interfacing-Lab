@@ -13,6 +13,7 @@ The course is divided into the following modules:
 - Week 5 - Dealing with Interrupts
 - Week 6 - File Operations in DebugX
 - Week 7 - Advanced Operations using Interrupts
+- Week 8 - BIOS Interrupts for Display
 
 ## Lab Sheets
 
@@ -23,6 +24,7 @@ The course is divided into the following modules:
 - [Labsheet Week5](https://designrr.page/?id=164469&token=1371144883&h=6568)
 - [Labsheet Week6](https://designrr.page/?id=166177&token=4270863191&h=2954)
 - [Labsheet Week7](https://designrr.page/?id=169591&token=2109544260&h=3144)
+- [Labsheet Week8](https://designrr.page/?id=170816&token=3832048893&h=6368)
 
 ## Lab Slides
 
@@ -33,6 +35,7 @@ The course is divided into the following modules:
 - [Slides Week5](https://drive.google.com/file/d/1GJyQm0K5Y1SSVAYXZWg9H4jj2OYOK0Hk/view?usp=sharing)
 - [Slides Week6](https://drive.google.com/file/d/1YMhm60D9gEmdEqlxGIvSdwueHTU7FkDK/view?usp=sharing)
 - [Slides Week7](https://drive.google.com/file/d/12LeDJUDGE-UXvu60OaX5AAfbu9dm6Vw7/view?usp=sharing)
+- [Slides Week8](https://drive.google.com/file/d/1mcKyN2--DoxI0fpNzgNeUgsk5Zep7b5j/view?usp=sharing)
 
 ## Contributions
 Contributions to this repository are welcome. If you find any issues or have any suggestions for improvement, please feel free to open an issue or submit a pull request.
